@@ -69,7 +69,7 @@
 		"@ngx-translate/http-loader": "^3.0.1",
 		"angular2-logger": "^0.7.0",
 		"apollo-angular": "1.1.2",
-		"apollo-angular-link-http": "^1.1.1",
+		"apollo-angular-link-http": "^1.5.0",
 		"apollo-cache-inmemory": "^1.2.7",
 		"apollo-client": "^2.3.8",
 		"apollo-link-context": "^1.0.8",
